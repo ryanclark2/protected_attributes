@@ -6,7 +6,7 @@ Protect attributes from mass-assignment in Active Record models.
 
 This plugin adds the class methods `attr_accessible` and `attr_protected` to your models to be able to declare white or black lists of attributes.
 
-Note: This plugin will be officially supported until the release of Rails 5.0.
+Note: This plugin will not be officially supported in Rails 5.0.
 
 ## Installation
 
